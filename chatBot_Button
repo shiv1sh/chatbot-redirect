@@ -27,7 +27,7 @@
 
   <script type="text/javascript">
     function redirectToBot() {
-      window.location.href = 'https://app-ai4cela-eus-dev.azurewebsites.net/';
+      window.location.href = 'https://www.google.co.in/';
     }
   </script>
 </body>
